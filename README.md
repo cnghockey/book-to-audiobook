@@ -192,6 +192,17 @@ Typical duration: a few minutes for a short book, up to 10 minutes for longer wo
 - **OpenAPI spec** — https://sats4ai.com/api/openapi.json
 - **L402 protocol reference** — https://sats4ai.com/docs#payment-protocols
 
+## Support / donate
+We turn the pile of books on your nightstand into audiobooks, in 600+ languages. The dishes will never be the same.
+
+If this was useful to you and you like what we do, consider sending a few sats our way:
+
+⚡ **`sats4ai@blink.sv`**
+
+(It's a **Bitcoin Lightning** address: pay it from any Lightning wallet. Looks like an email, isn't one. Lightning sats only: no on-chain, no fiat, no cards, no altcoins, no refunds on gratitude.)
+
+Not this time? That's cool too. We've been there. A star on the repo is a free hug.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
