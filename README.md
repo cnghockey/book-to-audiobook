@@ -6,8 +6,6 @@
 
 A compound **AI audiobook generator API** that bundles book parsing (EPUB, PDF, TXT), chapter detection, text-to-speech with chapter markers, and optional translation into one HTTP endpoint. Useful for self-publishing audiobooks in underserved languages (Yoruba, Marathi, Cebuano, Swahili, Twi, Tamil, Amharic, Bengali, …), turning PDFs and reports into commute-friendly audio, translating foreign-language books into your own, or narrating in a cloned voice. Built on Sats4AI's L402 payment protocol.
 
-Search terms: *epub to audiobook api, pdf to audiobook, ai audiobook generator, text to audiobook api, ai narration, self publish audiobook, audible alternative api, speechify alternative api, multilingual tts, yoruba audiobook, marathi audiobook, mcp audiobook tool, l402 tts*.
-
 ---
 
 ## What makes it different
@@ -206,37 +204,3 @@ Not this time? That's cool too. We've been there. A star on the repo is a free h
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
-<details>
-<summary>Repository setup (for maintainers)</summary>
-
-```bash
-gh repo create cnghockey/book-to-audiobook --public --source=. \
-  --description "Book-to-audiobook API — turn any EPUB/PDF/TXT into an audiobook in 600+ languages, with optional translation. Pay per character with Bitcoin Lightning. No signup." \
-  --homepage "https://sats4ai.com" \
-  --push
-
-gh repo edit cnghockey/book-to-audiobook \
-  --add-topic audiobook \
-  --add-topic audiobook-generator \
-  --add-topic ai-audiobook \
-  --add-topic epub-to-audiobook \
-  --add-topic pdf-to-audiobook \
-  --add-topic text-to-speech \
-  --add-topic tts \
-  --add-topic multilingual \
-  --add-topic translation \
-  --add-topic ai-narration \
-  --add-topic mcp \
-  --add-topic model-context-protocol \
-  --add-topic l402 \
-  --add-topic lightning-network \
-  --add-topic bitcoin \
-  --add-topic pay-per-use \
-  --add-topic no-signup \
-  --add-topic self-publishing \
-  --add-topic audible-alternative \
-  --add-topic speechify-alternative
-```
-
-</details>
