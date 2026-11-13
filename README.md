@@ -183,6 +183,8 @@ Typical duration: a few minutes for a short book, up to 10 minutes for longer wo
 - [`sats4ai-mcp`](https://github.com/cnghockey/sats4ai-mcp-server) — MCP server bundling all 35+ Sats4AI services.
 - [`sats4ai-l402-examples`](https://github.com/cnghockey/sats4ai-l402-examples) — Full L402 examples across every service.
 
+Also from us, outside AI: the [Wandless VR Video Player](https://github.com/cnghockey/wandless-vr-video-player), a [VLC for Android subtitle fix](https://github.com/cnghockey/vlc-android-subtitle-url-fix), and relays for a [Bestway spa](https://github.com/cnghockey/bestway-spa-relay) and an [EvoStart remote starter](https://github.com/cnghockey/evo-start-relay).
+
 ## Links
 
 - **Sats4AI homepage** — https://sats4ai.com
